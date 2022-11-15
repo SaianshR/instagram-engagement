@@ -1,1 +1,1 @@
-## Analyzing the Dependence of Instagram Engagement on the Type of Images Used
+## Analyzing the Dependence of Instagram Engagement on the Type of Images
